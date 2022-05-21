@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bodys{
+    width: 100%;
+    align-items: center;
+    
+    
+}
+.title{
+    text-align: center;
+    margin-top: 20px;
+    color: #112B3C;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+
+    
+}
+.searching{
+    margin-left: 43%;
+    margin-top: 0.7rem;
+    text-align: center;
+    font-size: 0.9rem;
+
+}

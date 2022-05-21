@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-contains{
+    display: flex;
+    margin-left: 43.2%;
+
+    margin-top: 20px;
+    word-spacing: 0.1rem;
+    font-weight: bold;
+    
+}
+
+.btn-contains button{
+    margin-right: 0.4rem;
+    margin-left: 0.4rem;
+    background-color: #205375;
+    padding: 0.3rem;
+    border: none;
+    font-weight: bold;
+}
+.btn-contains button:hover{
+    color: white;
+}
+
+
